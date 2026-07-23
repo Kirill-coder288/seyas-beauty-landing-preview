@@ -1,0 +1,17 @@
+{
+  "name": "SEYAS Beauty Space",
+  "short_name": "SEYAS",
+  "description": "Демонстрационный лендинг салона красоты",
+  "lang": "ru",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f1eee8",
+  "theme_color": "#f1eee8",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kirill-coder288.github.io/seyas-beauty-landing-preview/sitemap.xml
